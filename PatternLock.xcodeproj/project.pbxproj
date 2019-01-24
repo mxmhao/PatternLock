@@ -14,6 +14,7 @@
 		CB1FD0F020C12325009955FE /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = CB1FD0EE20C12325009955FE /* LaunchScreen.storyboard */; };
 		CB1FD0F320C12325009955FE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = CB1FD0F220C12325009955FE /* main.m */; };
 		CB1FD0FC20C12391009955FE /* XMPatternLockViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = CB1FD0FA20C12391009955FE /* XMPatternLockViewController.m */; };
+		CBB106A121F94932007BA09A /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CBB106A021F94932007BA09A /* README.md */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -29,6 +30,7 @@
 		CB1FD0F220C12325009955FE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		CB1FD0FA20C12391009955FE /* XMPatternLockViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = XMPatternLockViewController.m; sourceTree = "<group>"; };
 		CB1FD0FB20C12391009955FE /* XMPatternLockViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = XMPatternLockViewController.h; sourceTree = "<group>"; };
+		CBB106A021F94932007BA09A /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = SOURCE_ROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -71,6 +73,7 @@
 				CB1FD0EE20C12325009955FE /* LaunchScreen.storyboard */,
 				CB1FD0F120C12325009955FE /* Info.plist */,
 				CB1FD0F220C12325009955FE /* main.m */,
+				CBB106A021F94932007BA09A /* README.md */,
 			);
 			path = PatternLockDemo;
 			sourceTree = "<group>";
@@ -143,6 +146,7 @@
 			files = (
 				CB1FD0F020C12325009955FE /* LaunchScreen.storyboard in Resources */,
 				CB1FD0ED20C12325009955FE /* Assets.xcassets in Resources */,
+				CBB106A121F94932007BA09A /* README.md in Resources */,
 				CB1FD0EB20C12323009955FE /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

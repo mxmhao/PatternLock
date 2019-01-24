@@ -1,9 +1,8 @@
 //
 //  PatternLockViewController.h
-//  TMASHttp(iphone)
 //
-//  Created by TWM01 on 2017/10/31.
-//  Copyright © 2017年 noontec. All rights reserved.
+//  Created by mxm on 2017/2/31.
+//  Copyright © 2017年 mxm. All rights reserved.
 //
 //  手势锁
 
